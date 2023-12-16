@@ -9,3 +9,4 @@
 ![html](https://github.com/Aoun-Developer/Aoun-Developer/assets/112731920/68ba4a16-7196-4ced-8d2d-504e39f9f5b8)
 ![css](https://github.com/Aoun-Developer/Aoun-Developer/assets/112731920/a53c1b7e-613c-4a42-b714-541f059f2aeb)
 ![bootstrap](https://github.com/Aoun-Developer/Aoun-Developer/assets/112731920/81b4af7f-8c5d-4356-b1a2-02bf7fa2e3db)
+![favicon](https://github.com/Aoun-Developer/Aoun-Developer/assets/112731920/805efb13-ea5b-452d-b73d-b4ea338c04d3)
