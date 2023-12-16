@@ -1,7 +1,7 @@
 ![github banner](https://github.com/Aoun-Developer/Aoun-Developer/assets/112731920/e646a3ab-5f2e-46e4-a04d-b22396c67886)
 
 <p align="center">
-  \Hi there 👋
+Hi there 👋 <br>
 🚀 Experience CMS Designer <br> 
 💻 Full Time Programmer <br>
 🌐 Learning MERN Stack <br>
