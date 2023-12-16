@@ -3,9 +3,9 @@
 Hi there 👋
 
 🚀 Experience CMS Designer <br>
-💻 Full Time Programmer
-🌐 Learning MERN Stack
-📚 Hobbies include, Cardio, Swimming, Books
+💻 Full Time Programmer<br>
+🌐 Learning MERN Stack<br>
+📚 Hobbies include, Cardio, Swimming, Books<br>
 
 ![wordpress](https://github.com/Aoun-Developer/Aoun-Developer/assets/112731920/c31d4eb1-4045-48f7-92fd-9574c3735828)
 ![woocommerce](https://github.com/Aoun-Developer/Aoun-Developer/assets/112731920/fdde2436-3cca-4a99-bdeb-3fb68a2eed76)
