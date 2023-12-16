@@ -2,7 +2,7 @@
 
 Hi there 👋
 
-🚀 Experience CMS Designer
+🚀 Experience CMS Designer <br>
 💻 Full Time Programmer
 🌐 Learning MERN Stack
 📚 Hobbies include, Cardio, Swimming, Books
