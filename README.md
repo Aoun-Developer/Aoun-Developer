@@ -8,7 +8,6 @@
 📚 Hobbies include, Cardio, Swimming, Books <br> <br>
 </p>
 
-<div>
   ![wordpress](https://github.com/Aoun-Developer/Aoun-Developer/assets/112731920/c31d4eb1-4045-48f7-92fd-9574c3735828)
 ![woocommerce](https://github.com/Aoun-Developer/Aoun-Developer/assets/112731920/fdde2436-3cca-4a99-bdeb-3fb68a2eed76)
 ![tailwind-css](https://github.com/Aoun-Developer/Aoun-Developer/assets/112731920/467bad7c-e972-42a3-906d-e6e17b65416d)
@@ -19,4 +18,3 @@
 ![html](https://github.com/Aoun-Developer/Aoun-Developer/assets/112731920/0871264c-34e7-405a-8a9e-ccb03b460201)
 ![css](https://github.com/Aoun-Developer/Aoun-Developer/assets/112731920/b94f822d-d0fd-4869-bc84-d545b93507ee)
 ![bootstrap](https://github.com/Aoun-Developer/Aoun-Developer/assets/112731920/f25c1108-7f07-4501-bdc6-01339e2f4baf)
-</div>
