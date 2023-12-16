@@ -1,12 +1,3 @@
 ### Hi there 👋
-![wordpress](https://github.com/Aoun-Developer/Aoun-Developer/assets/112731920/d6bfcbde-57ca-47cc-b802-680d3c8fa72c)
-![woocommerce](https://github.com/Aoun-Developer/Aoun-Developer/assets/112731920/fe7367c4-310b-4777-9d15-d484f1c8bc14)
-![tailwind css](https://github.com/Aoun-Developer/Aoun-Developer/assets/112731920/9df08167-0faf-4720-98cc-5e1a6d8f04e3)
-![shopify](https://github.com/Aoun-Developer/Aoun-Developer/assets/112731920/d38c1a32-ade4-460e-8a90-e6ebcb7da78b)
-![json](https://github.com/Aoun-Developer/Aoun-Developer/assets/112731920/cca6273d-4b03-4ae9-8e1d-15dff422715f)
-![js](https://github.com/Aoun-Developer/Aoun-Developer/assets/112731920/517cf4e4-aa47-42de-83f3-52f104f0ddd4)
-![jquery](https://github.com/Aoun-Developer/Aoun-Developer/assets/112731920/4f65a765-da35-448a-8741-e17f0250c0fa)
-![html](https://github.com/Aoun-Developer/Aoun-Developer/assets/112731920/68ba4a16-7196-4ced-8d2d-504e39f9f5b8)
-![css](https://github.com/Aoun-Developer/Aoun-Developer/assets/112731920/a53c1b7e-613c-4a42-b714-541f059f2aeb)
-![bootstrap](https://github.com/Aoun-Developer/Aoun-Developer/assets/112731920/81b4af7f-8c5d-4356-b1a2-02bf7fa2e3db)
-![favicon](https://github.com/Aoun-Developer/Aoun-Developer/assets/112731920/805efb13-ea5b-452d-b73d-b4ea338c04d3)
+
+![wordpress](https://github.com/Aoun-Developer/Aoun-Developer/assets/112731920/fe0064a1-3043-494e-b9ea-7ac1c717dd64)
